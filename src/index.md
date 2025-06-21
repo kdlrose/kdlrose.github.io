@@ -5,12 +5,13 @@ title: "HACKSTROLOGY"
 
 **sailorfe**@**hackstrology** *$* whois
 
+- [Git](https://codeberg.org/sailorfe)
 - [Newsletter](https://buttondown.com/hackstrology)
 - [Readings](https://ko-fi.com/hackstrology)
 
 I'm an astrologer who programs a bit in Python and C. At the end of macOS 12 support, I nuked Monterey and my App Store purchase of iPhemeris off my laptop and replaced it with Debian. Ever since then, I've made do with a combination of tech and paper solutions that make me grateful for free software, but sad that such methods are overshadowed by expensive GUI programs and cloud subscriptions, so I'm compiling them here.
 
-In the millennia-long history of astronomy, computers are recent. I think early career astrologers can benefit from cracking open an ephemeris or reading transits and horoscopes as monospaced textual output, then drawing the chart by hand. I sound like a boomer saying this, but I promise you my *♇* is in *♐︎*; I'm just a medievalst who likes feeling closer to this tradition's forebears, just like my love for computers is a love for Unix and TUIs. I check my work with Astro.com, but for the most part rely on the CLI program Astrolog and the empty Cafe Bustelo can I trace for circular charts.
+In the millennia-long history of astronomy, computers are recent. I think early career astrologers can benefit from cracking open an ephemeris or reading transits and horoscopes as monospaced textual output, then drawing the chart by hand. I sound like a boomer saying this, but I promise you my *♇* is in *♐︎*; I'm just a medievalst who likes feeling closer to this tradition's forebears, like my love for computers is a love for Unix and TUIs. I check my work with Astro.com, but for the most part rely on the CLI program Astrolog and the empty Cafe Bustelo can I trace for circular charts.
 
 **sailorfe**@**hackstrology** *$* ls uses/
 
