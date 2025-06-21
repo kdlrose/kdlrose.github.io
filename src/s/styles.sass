@@ -1,28 +1,31 @@
-@use "moonqueen.sass"
+@use "fonts.sass"
+@use "perona.sass"
 
 :root
-  background-color: var(--black)
-  color: var(--bright-white)
+  background: linear-gradient(90deg,var(--blue) 0%, var(--cyan) 100%)
+  background-color: var(--blue)
+  color: white
 
 body
-  font-family: "Iosevka", monospace
-  font-size: 16pt
+  font-family: "Iosevka Web", monospace
+  font-size: 24pt
   max-width: 40em
+  margin: 1em
+  text-shadow: 1px 1px 2px var(--black)
 
 h1
   font-style: italic
 
-strong
-  color: var(--bright-cyan)
-
-a, em
-  color: var(--bright-yellow)
+h2
+  text-transform: uppercase
 
 a
-  text-decoration: none
+  color: inherit
 
 a:hover
-  color: var(--blue)
+  text-decoration: none
 
-em
-  font-style: normal
+ul
+  list-style-type: none
+  margin: 0
+  padding: 0

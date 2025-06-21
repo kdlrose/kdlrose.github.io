@@ -1,55 +1,104 @@
+@font-face {
+  font-family: "Iosevka Web";
+  font-display: swap;
+  font-weight: 400;
+  font-stretch: normal;
+  font-style: normal;
+  src: url("../f/Iosevka-Regular.woff2") format("woff2");
+}
+@font-face {
+  font-family: "Iosevka Web";
+  font-display: swap;
+  font-weight: 400;
+  font-stretch: normal;
+  font-style: italic;
+  src: url("../Iosevka-Italic.woff2") format("woff2");
+}
+@font-face {
+  font-family: "Iosevka Web";
+  font-display: swap;
+  font-weight: 500;
+  font-stretch: normal;
+  font-style: normal;
+  src: url("../f/Iosevka-Medium.woff2") format("woff2");
+}
+@font-face {
+  font-family: "Iosevka Web";
+  font-display: swap;
+  font-weight: 500;
+  font-stretch: normal;
+  font-style: italic;
+  src: url("../f/Iosevka-MediumItalic.woff2") format("woff2");
+}
+@font-face {
+  font-family: "Iosevka Web";
+  font-display: swap;
+  font-weight: 700;
+  font-stretch: normal;
+  font-style: normal;
+  src: url("../f/Iosevka-Bold.woff2") format("woff2");
+}
+@font-face {
+  font-family: "Iosevka Web";
+  font-display: swap;
+  font-weight: 700;
+  font-stretch: normal;
+  font-style: italic;
+  src: url("../f/Iosevka-BoldItalic.woff2") format("woff2");
+}
 :root {
-  --black: #241a37;
-  --red: #ef434c;
-  --green: #6ca522;
-  --yellow: #f7bb31;
-  --blue: #508ae2;
-  --magenta: #8877f8;
-  --cyan: #e873b9;
-  --white: #ccb9f4;
-  --bright-black: #513b7d;
-  --bright-red: #fc737a;
-  --bright-green: #b6ca68;
-  --bright-yellow: #ffd470;
-  --bright-blue: #7cacf4;
-  --bright-magenta: #b9affd;
-  --bright-cyan: #f7a1d5;
-  --bright-white: #ddcdfe;
+  --black: #281520;
+  --bright-black: #683152;
+  --red: #a90f30;
+  --bright-red: #de3557;
+  --green: #a75fb4;
+  --bright-green: #de91da;
+  --yellow: #e65667;
+  --bright-yellow: #eb8490;
+  --blue: #8dafe2;
+  --bright-blue: #b4cff8;
+  --magenta: #b54067;
+  --bright-magenta: #d65c85;
+  --cyan: #f269ad;
+  --bright-cyan: #ff99cc;
+  --white: #b1819e;
+  --bright-white: #f4b9dc;
 }
 
 :root {
-  background-color: var(--black);
-  color: var(--bright-white);
+  background: linear-gradient(90deg, var(--blue) 0%, var(--cyan) 100%);
+  background-color: var(--blue);
+  color: white;
 }
 
 body {
-  font-family: "Iosevka", monospace;
-  font-size: 16pt;
+  font-family: "Iosevka Web", monospace;
+  font-size: 24pt;
   max-width: 40em;
+  margin: 1em;
+  text-shadow: 1px 1px 2px var(--black);
 }
 
 h1 {
   font-style: italic;
 }
 
-strong {
-  color: var(--bright-cyan);
-}
-
-a, em {
-  color: var(--bright-yellow);
+h2 {
+  text-transform: uppercase;
 }
 
 a {
-  text-decoration: none;
+  color: inherit;
 }
 
 a:hover {
-  color: var(--blue);
+  text-decoration: none;
 }
 
-em {
-  font-style: normal;
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
 }
 
 /*# sourceMappingURL=styles.css.map */
