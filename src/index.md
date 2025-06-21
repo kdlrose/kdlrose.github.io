@@ -1,6 +1,6 @@
 ---
 layout: page.html
-title: "hackstrology"
+title: "HACKSTROLOGY"
 ---
 
 **sailorfe**@**hackstrology** *$* whois
