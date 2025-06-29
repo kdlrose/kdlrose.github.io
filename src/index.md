@@ -1,27 +1,23 @@
 ---
 layout: page.html
-title: "HACKSTROLOGY"
+title: "kdlr"
 ---
-# hackstrology
 
-free and mostly open-source software solutions for working astrologers compiled by [@sailorfe](https://codeberg.org/sailorfe) 👩🏻‍💻. while you're here, why not [book a reading with me](https://ko-fi.com/hackstrology) or check out [my newsletter](https://buttondown.com/hackstrology)?
+# kdlr
 
-## 🌟 tested
+1. [git](https://codeberg.org/sailorfe) ✧
+2. [newsletter](https://buttondown.com/hackstrology) ✧
+3. [email](mailto:krdlrosa@gmail.com)
 
-- [Astrodienst](https://astro.com), the best free online chart generator
-- [Astrolog](https://astrolog.org/astrolog.htm), CLI chart generator in C++
-- [astrokeys](https://codeberg.org/sailorfe/astrokeys), QMK unicode map for astrological glyphs (mine 💅🏻)
-- [AstroMatrix](https://astromatrix.org/), Android app (paywalled)
-- [TimeNomad](https://timenomad.app/), iPhone/iPad app (paywalled)
+I'm Kathryn de la Rosa, a Filipina-American dramaturg, software developer, and astrologer from Kentucky. I've worked with Audible Theater producing their Emerging Playwright Commissions and directly with playwrights like Alex Lin, Kaela Mei-Shing Garvin, and Kimberly Belflower. My BA is in Theatre & Drama and Journalism from Indiana University, and during the pandemic I did graduate work in religious studies at United Theological Seminary of the Twin Cities.
 
-## 🔭 watching
+These days I write CLI apps in Python and write a newsletter called HACKSTROLOGY about technology and astrology that comes out each new and full moon. In general, I am interested in the collision (contradiction) of premodern traditions and modern sciences; in my Substack era [I read Bertolt Brecht's birth chart](https://kathryndelarosa.substack.com/fuck-it-heres-brechts-birth-chart).
 
-- [pyswisseph](https://github.com/astrorigin/pyswisseph), Python extension of the swisseph
-- [Skylendar](https://sourceforge.net/projects/skylendar/), a GUI using Qt5 and swisseph as a PostgreSQL database
+## work with me
 
-## 🪐 in place of
+I'm available for script consultations on a sliding scale and longer-term dramaturgical collaborations, for which you can contact me at *krdlrosa at gmail dot com*.
 
-- [AstroGold](https://www.astrogold.io/), $249.99 USD
-- [iPhemeris](https://iphemeris.com/), $99.99 USD
-- [Luna](https://www.lunaastrology.com/), subscription-based
-- [SolarFire](https://alabe.com/solarfireV9.html), $360
+For astrological services, see [Ko-fi](https://ko-fi.com/hackstrology).
+
+## ✧
+
