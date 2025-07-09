@@ -13,10 +13,12 @@ I've studied western astrology since 2017 and did consultations early in the pan
 
 I use whole sign houses, the seven traditional planets, and the five major aspects. I make conservative use of the outer planets, Uranus through Pluto, primarily for timing techniques. I offer the following:
 
-- Natal chart reading, $75
-- Natal chart with transits, $100
-- Transits reading, $50
+- **Natal chart reading, $100 (90 minutes)** – An introduction that builds your chart from the ground up starting with your rising sign and its ruler, then looks up at the sky to the lights and other planets on a tour of the patterns at play in your horoscope.
+- **Natal chart with transits, $140 (120 minutes)** – If you're a new client, you can combine your horoscope with a transits check-in, which includes short-term planetary movements and longer-lasting themes found in annual timing and Saturn returns.
+- **Transits reading, $66 (60 minutes)** – For returning clients.
 
-You can read in more detail about these readings and book one of your own over on [Ko-fi](https://ko-fi.com/hackstrology/commissions).
+Readings take place over Zoom as either voice-only or video calls, but either way, I'll share my screen because this is primarily a type of pedagogy to me, and I want you to walk away with a better understanding of both yourself and astrology as a tradition.
+
+To book a reading, email me at *krdlrosa at gmail dot com*.
 
 ## ✧
