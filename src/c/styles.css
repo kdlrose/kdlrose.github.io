@@ -1,90 +1,22 @@
-@font-face {
-  font-family: "Iosevka Web";
-  font-display: swap;
-  font-weight: 400;
-  font-stretch: normal;
-  font-style: normal;
-  src: url("../f/Iosevka-Regular.woff2") format("woff2");
-}
-@font-face {
-  font-family: "Iosevka Web";
-  font-display: swap;
-  font-weight: 400;
-  font-stretch: normal;
-  font-style: italic;
-  src: url("../Iosevka-Italic.woff2") format("woff2");
-}
-@font-face {
-  font-family: "Iosevka Web";
-  font-display: swap;
-  font-weight: 500;
-  font-stretch: normal;
-  font-style: normal;
-  src: url("../f/Iosevka-Medium.woff2") format("woff2");
-}
-@font-face {
-  font-family: "Iosevka Web";
-  font-display: swap;
-  font-weight: 500;
-  font-stretch: normal;
-  font-style: italic;
-  src: url("../f/Iosevka-MediumItalic.woff2") format("woff2");
-}
-@font-face {
-  font-family: "Iosevka Web";
-  font-display: swap;
-  font-weight: 700;
-  font-stretch: normal;
-  font-style: normal;
-  src: url("../f/Iosevka-Bold.woff2") format("woff2");
-}
-@font-face {
-  font-family: "Iosevka Web";
-  font-display: swap;
-  font-weight: 700;
-  font-stretch: normal;
-  font-style: italic;
-  src: url("../f/Iosevka-BoldItalic.woff2") format("woff2");
-}
+@import url("https://fonts.googleapis.com/css2?family=Fragment+Mono:ital@0;1&family=Pirata+One&family=Xanh+Mono:ital@0;1&display=swap");
 :root {
-  --black: #281520;
-  --bright-black: #683152;
-  --red: #a90f30;
-  --bright-red: #de3557;
-  --green: #a75fb4;
-  --bright-green: #de91da;
-  --yellow: #e65667;
-  --bright-yellow: #eb8490;
-  --blue: #8dafe2;
-  --bright-blue: #b4cff8;
-  --magenta: #b54067;
-  --bright-magenta: #d65c85;
-  --cyan: #f269ad;
-  --bright-cyan: #ff99cc;
-  --white: #b1819e;
-  --bright-white: #f4b9dc;
-}
-
-:root {
-  background: linear-gradient(90deg, var(--blue) 0%, var(--cyan) 100%);
-  background-color: var(--blue);
-  color: white;
+  background-color: White;
+  color: BlueViolet;
 }
 
 body {
-  font-family: "Iosevka Web", monospace;
+  font-family: "Xanh Mono", serif;
   font-size: 24pt;
-  max-width: 40em;
-  margin: 1em;
-  text-shadow: 1px 1px 2px var(--black);
+  line-height: 1.4em;
+  max-width: 30em;
+  margin: 2em auto;
 }
 
-h1 {
-  font-style: italic;
-}
-
-h2 {
-  text-transform: uppercase;
+h1, h2 {
+  font-family: "Pirata One", serif;
+  font-weight: normal;
+  text-transform: lowercase;
+  text-align: center;
 }
 
 a {
@@ -95,10 +27,21 @@ a:hover {
   text-decoration: none;
 }
 
-ul {
+ol {
   list-style-type: none;
   margin: 0;
   padding: 0;
+  text-align: center;
+}
+ol li {
+  display: inline-block;
+}
+
+h1 a, ol a {
+  text-decoration: none;
+}
+h1 a:hover, ol a:hover {
+  text-decoration: underline;
 }
 
 /*# sourceMappingURL=styles.css.map */
