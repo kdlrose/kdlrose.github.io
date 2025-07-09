@@ -33,14 +33,15 @@ ol {
   padding: 0;
   text-align: center;
 }
-ol a {
-  text-decoration: none;
-}
-ol a:hover {
-  text-decoration: underline;
-}
 ol li {
   display: inline-block;
+}
+
+h1 a, ol a {
+  text-decoration: none;
+}
+h1 a:hover, ol a:hover {
+  text-decoration: underline;
 }
 
 /*# sourceMappingURL=styles.css.map */

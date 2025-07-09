@@ -3,7 +3,7 @@ layout: page.html
 title: "kdlr"
 ---
 
-# kdlr
+# [kdlr](..)
 
 1. [git](https://codeberg.org/sailorfe) ✧
 2. [newsletter](https://buttondown.com/hackstrology) ✧
@@ -17,7 +17,6 @@ These days I write CLI apps in Python and write a newsletter called HACKSTROLOGY
 
 I'm available for script consultations on a sliding scale and longer-term dramaturgical collaborations, for which you can contact me at *krdlrosa at gmail dot com*.
 
-For astrological services, see [Ko-fi](https://ko-fi.com/hackstrology).
+For astrological services, [click here](./astrology).
 
 ## ✧
-

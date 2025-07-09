@@ -1,7 +1,7 @@
 @import url("https://fonts.googleapis.com/css2?family=Fragment+Mono:ital@0;1&family=Pirata+One&family=Xanh+Mono:ital@0;1&display=swap");
 :root {
-  background-color: White;
-  color: BlueViolet;
+  background-color: BlueViolet;
+  color: White;
 }
 
 body {
@@ -44,4 +44,4 @@ h1 a:hover, ol a:hover {
   text-decoration: underline;
 }
 
-/*# sourceMappingURL=styles.css.map */
+/*# sourceMappingURL=inverted.css.map */
