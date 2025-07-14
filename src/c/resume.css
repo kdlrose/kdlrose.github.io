@@ -1,0 +1,36 @@
+:root {
+  --black: #2d1d35;
+  --bright-black: #543663;
+  --white: #a181b1;
+  --bright-white: #dbc8e5;
+  --cyan: #d65ca5;
+  --bright-cyan: #eb84c2;
+  --blue: #8dafe2;
+  --bright-blue: #b9d0f4;
+  --red: #e25057;
+  --bright-red: #eb8489;
+  --green: #b6ca68;
+  --bright-green: #ccda95;
+  --yellow: #efbb43;
+  --bright-yellow: #f4d07c;
+  --magenta: #a98de2;
+  --bright-magenta: #c0a7f1;
+}
+
+body {
+  font-family: sans-serif;
+  font-size: 13pt;
+  line-height: 1.4em;
+  max-width: 60em;
+  margin: 2em;
+}
+
+h1, a {
+  color: BlueViolet;
+}
+
+h2 {
+  color: MediumVioletRed;
+}
+
+/*# sourceMappingURL=resume.css.map */
