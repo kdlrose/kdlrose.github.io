@@ -47,13 +47,6 @@ CompTIA A+-certified career changer. With a background in professional theater a
 - Picked up primarily arts & entertainment event pitches.
 - Wrote a successful weekly astrology column my final semester whose March 2019 Mercury retrograde edition did bizarrely well with SEO.
 
-### Audio Production
-
-- 2023,	Associate Producer, *Vanessa in Bed* (Audible Theater), New York, NY
-- 2023,	Associate Producer, *Dirty Laundry* (Audible Theater), New York, NY
-- 2021,	Contributing Reporter, *1 in 5* (Aspen Institute/Lantigua Williams & Co) – 1 episode
-- 2020, Dialogue Editor, *Playing on Air*, New York, NY – 2 episodes
-
 ## Projects
 
 (mostly at [codeberg.org/sailorfe](https://codeberg.org/sailorfe))
