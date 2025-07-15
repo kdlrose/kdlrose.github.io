@@ -1,6 +1,6 @@
 ---
 layout: swap.html
-title: "kdlr"
+title: "kdlr | astrology"
 ---
 
 # [kdlr](..)
@@ -9,16 +9,24 @@ title: "kdlr"
 2. [newsletter](https://buttondown.com/hackstrology) ✧
 3. [email](mailto:krdlrosa@gmail.com)
 
-I've studied western astrology since 2017 and did consultations early in the pandemic way before I should have. My practice is grounded in translated Hellenistic and medieval Persian texts and largely an actualized historical interest. As far as belief goes, I'm Ralph Fiennes in *Conclave*.
+I've studied western astrology since 2017 and started consultations in 2021. My practice is grounded in translated Hellenistic and medieval Persian texts and largely an actualized historical interest. As far as belief goes, I'm Ralph Fiennes in *Conclave*.
 
-I use whole sign houses, the seven traditional planets, and the five major aspects. I make conservative use of the outer planets, Uranus through Pluto, primarily for timing techniques. I offer the following:
+I use whole sign houses, the five major aspects, and emphasize the seven visible planets while making conservative use of Uranus through Pluto.
 
-- **Natal chart reading, $100 (90 minutes)** – An introduction that builds your chart from the ground up starting with your rising sign and its ruler, then looks up at the sky to the lights and other planets on a tour of the patterns at play in your horoscope.
-- **Natal chart with transits, $140 (120 minutes)** – If you're a new client, you can combine your horoscope with a transits check-in, which includes short-term planetary movements and longer-lasting themes found in annual timing and Saturn returns.
-- **Transits reading, $66 (60 minutes)** – For returning clients.
+## readings
 
-Readings take place over Zoom as either voice-only or video calls, but either way, I'll share my screen because this is primarily a type of pedagogy to me, and I want you to walk away with a better understanding of both yourself and astrology as a tradition.
+- **60-minute reading, $90 USD** – This is a good fit if you're new to astrology or don't quite know what you're looking for. We'll take a tour of your natal chart starting from the ground with your ascendant and its ruler, then look up at the sky at the lights and other planets.
+- **90-minute reading, $140 USD** – Your foundational natal reading with something on the side, such as:
+    * current or past transits
+    * your birthday (solar revolution + annual profection)
+    * your Saturn return
+
+Readings take place over [Jitsi](https://meet.jit.si). I record audio externally with [Audacity](https://support.audacityteam.org/basics/recording-desktop-audio) and share it with you for your future reference via [Send](https://send.vis.ee/).
 
 To book a reading, email me at *krdlrosa at gmail dot com*.
+
+## newsletter
+
+I write a newsletter each new and full moon called HACKSTROLOGY. Each issue has, at minimum, a lunarscope and a preview of the next two weeks. The bulk of the letter is often an essay on a topic like planetary joys, techniques I'm learning like elections, or a post about astrological FOSS. You can [read the archive](https://buttondown.com/hackstrology) before you subscribe.
 
 ## ✧
