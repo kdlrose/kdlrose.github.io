@@ -1,6 +1,6 @@
 ---
 layout: swap.html
-title: "kdlr"
+title: "kdlr | astrology"
 ---
 
 # [kdlr](..)
@@ -11,16 +11,17 @@ title: "kdlr"
 
 I've studied western astrology since 2017 and started consultations in 2021. My practice is grounded in translated Hellenistic and medieval Persian texts and largely an actualized historical interest. As far as belief goes, I'm Ralph Fiennes in *Conclave*.
 
-I use whole sign houses, the seven traditional planets, and the five major aspects. I make conservative use of the outer planets, Uranus through Pluto, primarily for timing techniques. I offer the following:
+I use whole sign houses, the five major aspects, and emphasize the seven visible planets while making conservative use of Uranus through Pluto.
 
-- **60-minute reading** – This is a good fit if you're new to astrology or don't quite know what you're looking for.
-- **90-minute reading** – Your basic natal chart reading with extras on the side, such as:
-    * a current transits check-in;
-    * a past event review;
-    * your solar or Saturn return.
-- **45-minute reading** – For returning clients only.
+## readings
 
-Readings take place over Google Meet as either voice-only or video calls, but either way, I'll share my screen because this is primarily a type of pedagogy to me, and I want you to walk away with a better understanding of both yourself and astrology as a tradition.
+- **60-minute reading, $100 USD** – This is a good fit if you're new to astrology or don't quite know what you're looking for, starting with your natal chart.
+- **90-minute reading, $150 USD** – Your basic natal reading with something on the side, such as:
+    * current or past transits
+    * your birthday (solar revolution + annual profection)
+    * your Saturn return
+
+Readings take place over [Jitsi](https://meet.jit.si). I record audio externally with [Audacity](https://support.audacityteam.org/basics/recording-desktop-audio) and share it with you for your future reference via [Send](https://send.vis.ee/).
 
 To book a reading, email me at *krdlrosa at gmail dot com*.
 
