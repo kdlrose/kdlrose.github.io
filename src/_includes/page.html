@@ -1,14 +1,67 @@
 <!DOCTYPE html>
-	<head>
-		<html lang="en">
-		<link rel="stylesheet" href="/c/styles.css">
-		<link rel="icon" type="image/x-icon" href="/m/favicon.ico">
-		<meta charset="UTF-8">
-    <meta name="description" content="kdlr">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-		<title>{{ title }}</title>
-	</head>
-	<body>
-		{{ content }}
-	</body>
+<html lang="{{ lang or 'en' }}">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>{{ title }}{% if title != site.title %} | {{ site.title }}{% endif %}</title>
+    <meta name="description" content="{{ description or site.description }}">
+    <meta name="keywords" content="{{ keywords or site.keywords }}">
+    <meta name="author" content="{{ author or site.author }}">
+
+    <link rel="canonical" href="{{ site.url }}{{ page.url }}">
+
+    <meta property="og:type" content="{{ og_type or 'website' }}">
+    <meta property="og:title" content="{{ og_title or title }}">
+    <meta property="og:description" content="{{ og_description or description or site.description }}">
+    <meta property="og:url" content="{{ site.url }}{{ page.url }}">
+    <meta property="og:site_name" content="{{ site.title }}">
+    <meta property="og:locale" content="{{ locale or 'en_US' }}">
+    {% if og_image %}
+    <meta property="og:image" content="{{ site.url }}{{ og_image }}">
+    <meta property="og:image:alt" content="{{ og_image_alt or title }}">
+    {% endif %}
+
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "{{ schema_type or 'WebSite' }}",
+        "name": "{{ schema_name or site.title }}",
+        "url": "{{ site.url }}",
+        "description": "{{ description or site.description }}"{% if site.author %},
+        "author": {
+            "@type": "Person",
+            "name": "{{ site.author }}"
+        }{% endif %}
+    }
+    </script>
+
+    <link rel="icon" type="image/x-icon" href="/m/favicon.ico">
+    <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+    <link rel="manifest" href="/site.webmanifest">
+
+    <!-- RSS Feed -->
+    {% if collections.posts %}
+    <link rel="alternate" type="application/rss+xml" title="{{ site.title }} RSS Feed" href="{{ site.url }}/feed.xml">
+    {% endif %}
+
+    <!-- Robots -->
+    <meta name="robots" content="{{ robots or 'index, follow' }}">
+
+    <!-- CSS -->
+    <link rel="stylesheet" href="{{ '/c/styles.css' | url }}">
+
+    <!-- Preconnect to external domains if needed -->
+    <!-- <link rel="preconnect" href="https://fonts.googleapis.com"> -->
+</head>
+<body class="{{ bodyClass }}">
+    <main>
+        {{ content }}
+    </main>
+
+    <!-- JavaScript -->
+    <script src="{{ '/js/main.js' | url }}"></script>
+</body>
 </html>

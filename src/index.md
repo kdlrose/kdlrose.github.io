@@ -1,22 +1,10 @@
 ---
 layout: page.html
-title: "kdlr"
+title: "Kathryn de la Rosa"
 ---
 
-# [kdlr](..)
+**Kathryn de la Rosa** (she/siya) is a Filipina-American dramaturg and producer from Kentucky. She has worked at Actors Theater of Louisville, Asolo Rep, The New Harmony Project, and with various colleges and universities on both new plays and production research. With Audible Theater, she co-produced the Emerging Playwright Commissions [*Dirty Laundry*](https://www.audible.com/pd/Dirty-Laundry-Audiobook/B0BY3H9BHP) by Mathilde Dratwa and [*Vanessa in Bed*](https://www.audible.com/pd/Vanessa-in-Bed-Audiobook/B0CJ5SZ78W) by Diana Grisanti. Her work is most often direct dialogue with playwrights like Alex Lin, Kimberly Belflower, and Kaela Mei-Shing Garvin. She's also a consulting astrologer.
 
-1. [git](https://codeberg.org/sailorfe) ✧
-2. [newsletter](https://buttondown.com/hackstrology) ✧
-3. [email](mailto:krdlrosa@gmail.com)
+If you would like to discuss collaborations—dramaturgical, astrological or otherwise—send a message to [krdlrosa@gmail.com](mailto:krdlrosa@gmail.com).
 
-I'm Kathryn de la Rosa, a Filipina-American dramaturg and astrologer from Kentucky. I've worked with Audible Theater producing their Emerging Playwright Commissions and directly with playwrights like Alex Lin, Kaela Mei-Shing Garvin, and Kimberly Belflower. My BA is in Theatre & Drama and Journalism from Indiana University, and during the pandemic I did graduate work in religious studies at United Theological Seminary of the Twin Cities.
-
-These days I write CLI apps in Python and write a newsletter called HACKSTROLOGY about technology and astrology that comes out each new and full moon. In general, I am interested in the collision (contradiction) of premodern traditions and modern sciences; in my Substack era [I read Bertolt Brecht's birth chart](https://kathryndelarosa.substack.com/fuck-it-heres-brechts-birth-chart).
-
-## work with me
-
-I'm available for script consultations on a sliding scale and longer-term dramaturgical collaborations, for which you can contact me at *krdlrosa at gmail dot com*.
-
-For information about astrological services, [click here](./astrology).
-
-## ✧
+For tech work, [go here](https://sailorfe.dev).
